@@ -42,9 +42,9 @@ The transaction confirmation page will be displayed to you after the authenticat
 * Apply production parameters and confirm successful pilot
 
 
-![TRANSACTION FLOW](img/transaction flow.PNG)
+![TRANSACTION PROCESS FLOW](https://github.com/up-eplatform/Merchant-Payment-Gateway/blob/8eedd285596cb7eb787869737e5957a61a7b3728/img/transaction%20flow.png)
 
-![PROCESS FLOW](/img/process flow.jpg)
+![TRANSACTION PROCESS FLOW](https://github.com/up-eplatform/Merchant-Payment-Gateway/blob/8eedd285596cb7eb787869737e5957a61a7b3728/img/process%20flow.png)
 
 ## Appendix A
 
