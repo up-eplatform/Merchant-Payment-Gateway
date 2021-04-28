@@ -1,6 +1,6 @@
 # Web Merchant Integration Guide
 
-# INTRODUCTION 
+# Introduction 
 
 This guide provides details on how the integration to the Unified Payments payment gateway should be implemented. The payment gateway provides for payment using the followingschemes: 
 * PayAttitude (Pay with Phone number) 
