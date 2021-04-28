@@ -42,9 +42,9 @@ The transaction confirmation page will be displayed to you after the authenticat
 * Apply production parameters and confirm successful pilot
 
 
-![TRANSACTION PROCESS FLOW](/img/transaction flow.PNG)
+![TRANSACTION FLOW](img/transaction flow.PNG)
 
-![TRANSACTION PROCESS FLOW](/img/process flow.png)
+![PROCESS FLOW](/img/process flow.jpg)
 
 ## Appendix A
 
@@ -61,10 +61,11 @@ The transaction confirmation page will be displayed to you after the authenticat
   "description" : 
   "Description of product or service",  
   "returnUrl" : "http://testurl.com/response/", 
-  "secretKey" : "YOUR-SECRET-KEY", "fee": 0 
+  "secretKey" : "YOUR-SECRET-KEY", 
+  "fee": 0 
   } 
   ```
-* Find the details of each field in table1.0. 6. Replace the secret key with the cryptographic key sent to you viaemail
+* Find the details of each field in table1.0. 6. Replace the secret key with the cryptographic key sent to you via email
 
 * The currency should be the ISO 4217 number of the transactioncurrency 
 * The amount displayed to the customer must be the same as the amount sent to the  payment gateway
@@ -112,9 +113,9 @@ The 3DSecure Provider means any party that provides 3DSecure services. This coul
 ```json
 {
 
-trxId: "54321", 
-status: "APPROVED", 
-approved: "true"
+"trxId": "54321", 
+"status": "APPROVED", 
+"approved": "true"
 
 } 
 ```
@@ -160,7 +161,7 @@ Note: trxId is the transaction’s ID on the UP MPI status is the status of the 
 
 
 
-** Table 2.0**
+**Table 2.0**
 
 **Transaction Status and Description**
 
